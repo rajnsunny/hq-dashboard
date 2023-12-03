@@ -73,9 +73,5 @@ const YourApp = () => {
 - **handleDeleteMultiple**: A function to handle the deletion of multiple selected rows.
 - **handleDeleteSingle**: A function to handle the deletion of a single row.
 
-## License
 
-This DataTable component is open-source and distributed under the [MIT License](LICENSE).
-```
 
-Customize the README file based on your specific project details, additional features, or any other relevant information you want to provide to users.
